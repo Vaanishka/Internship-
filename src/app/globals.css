@@ -1,0 +1,15 @@
+@import '@xterm/xterm/css/xterm.css';
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #0c0c0c;
+  color: #cccccc;
+  overflow: hidden;
+}
