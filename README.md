@@ -1,4 +1,4 @@
-# Secure Access Platform Simulator
+# Secure Access Platform
 
 A browser-based simulator of a **zero-trust privileged access platform**. It reproduces, entirely in the browser, how an employee reaches a production database without ever seeing a network address or a password: identity is verified through LDAP, access is authorised by **HashiCorp Boundary**, credentials are minted on demand by **HashiCorp Vault**, and everything is revoked the moment the session ends.
 
